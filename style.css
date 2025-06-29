@@ -11,7 +11,7 @@
 }
 .title-box {
 	text-align: center;
-	width: 35%;
+	width: 40%;
 	margin: 0 auto;
 }
 .title-box h2{
@@ -27,4 +27,83 @@
     font-weight: 400;
     line-height: 30px;
 }
-/*  */
+.d-flex{
+    display: flex;
+}
+.j-s-between{
+    justify-content: space-between;
+}
+.btn {
+	background-color: #E55473;
+	color: white;
+	display: inline-block;
+	border: none;
+	padding: 15px 30px;
+	border-radius: 8px;
+	font-size: 20px;
+	font-weight: 600;
+}
+.text-center{
+    text-align: center;
+}
+/* BAnner SEction */
+.banner-section{
+    background-color: #E554731A;
+    padding-top: 50px;
+}
+.banner-box{
+    align-items: center;
+    gap: 87px;
+}
+.banner-content h1{
+    color: rgb(39, 39, 39);
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 96px;
+}
+.banner-content p {
+	color: rgba(39, 39, 39, 0.6);
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30px;
+	margin: 20px 0;
+}
+.banner-image img{
+    margin-bottom: -4px;
+}
+/* Our Featured Flowers section */
+.feature-flower-section{
+    padding: 80px 0;
+}
+.flower-boxs {
+	margin: 50px 0;
+	gap: 3%;
+}
+.flower-box{
+    width: 100%;
+}
+.flower-image {
+	background: #a7216226;
+	padding: 80px 30px 0px 30px;
+	border-radius: 49% 49% 0 0;
+}
+.bg-one{
+    background-color: #0597A026;
+}
+.bg-two{
+    background-color: #477D1126;
+}
+.flower-image:nth-last-child {
+	background: #fa0d7fe5;
+}
+.flower-image img {
+	margin-bottom: -3px;
+}
+.flower-box a {
+	font-size: 20px;
+	color: black;
+	margin-top: 20px;
+	display: inline-block;
+	font-weight: 600;
+	text-decoration-thickness: 1px;
+}
