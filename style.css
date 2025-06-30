@@ -169,3 +169,24 @@
 	margin-right: 20px;
 }
 /*  */
+.footer-section {
+	background: #111010;
+	padding: 80px 0;
+}
+.footer-banner-content .title-box {
+	width: 40%;
+}
+.banner-content h2 {
+	color: rgb(255, 255, 255);
+	font-size: 48px;
+	font-weight: 800;
+}
+.banner-content .title-box p {
+	color: rgba(255, 255, 255, 0.904);
+}
+.banner-content.footer-banner-content h2 span {
+	color: #e55473;
+}
+.footer-dis{
+    color: rgba(240, 248, 255, 0.496);
+}
