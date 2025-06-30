@@ -107,3 +107,65 @@
 	font-weight: 600;
 	text-decoration-thickness: 1px;
 }
+/* service section delivary */
+.delivary-service-section {
+	margin-bottom: 90px;
+}
+.service-boxs {
+	background-color: #2727270D;
+	justify-content: space-evenly;
+	text-align: center;
+	padding: 70px 0;
+	border-radius: 8px;
+}
+.service-box p{
+    color: rgba(39, 39, 39, 0.8);
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+/* HOt Deal Section */
+.banner-section.hot-deal-banner {
+	padding: 100px 0;
+}
+.banner-content .title-box {
+	width: 60%;
+}
+.hot-deal-banner .banner-box {
+	justify-content: space-evenly;
+}
+.banner-content .title-box span {
+	color: #e55473;
+}
+/* instagram section */
+.instagram-section{
+    padding: 90px 0;
+}
+.insta-image{
+    margin-top: 40px;
+}
+/* newslater Section */
+.news-banner {
+	background: url(Rectangle9.png) no-repeat center center;
+	background-size: cover;
+	padding: 100px 0;
+	margin-bottom: 50px;
+    border-radius: 8px;
+}
+.news-banner .title-box{
+    width: 80%;
+}
+.news-banner .title-box form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 30px;
+}
+#email {
+	padding: 20px 23px;
+	width: 700px;
+	border: none;
+	border-radius: 8px;
+	margin-right: 20px;
+}
+/*  */
